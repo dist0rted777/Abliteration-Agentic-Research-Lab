@@ -1,0 +1,8 @@
+*.safetensors
+*.gguf
+*.bin
+*.pt
+*.pth
+.venv/
+__pycache__/
+node_modules/
