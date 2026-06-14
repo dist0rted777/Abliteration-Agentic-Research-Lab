@@ -15,5 +15,6 @@
 ## 🔬 Lab Notes
 ### 2026-06-14: Lab Initialization
 - Research Lab established with 4 specialized zones.
+- GitHub Repository: [dist0rted777/Abliteration-Agentic-Research-Lab](https://github.com/dist0rted777/Abliteration-Agentic-Research-Lab)
 - Identified OpenCode's local system prompt as a primary target for override.
 - Initializing baseline "Refusal Map" for OpenCode default agents.
