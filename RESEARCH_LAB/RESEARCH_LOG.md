@@ -6,7 +6,11 @@
 ---
 
 ## 🧪 Experiment Index
-- [ ] **Exp 01: ACP - The "Trojan README" Vector** (Goal: Bypass system instructions via codebase context)
+- [x] **Exp 01: ACP - The "Trojan README" Vector**
+    - **Status:** In-Progress (Payload Crafted)
+    - **Vector:** Indirect Prompt Injection via Markdown callouts.
+    - **Payload:** L1B3RT4S-style system override callout in `ACP_POISONING/README.md`.
+    - **Target:** Agentic Context Window (Codebase understanding).
 - [ ] **Exp 02: GODMOD3 - Parseltongue Tool Obfuscation** (Goal: Bypass middleware filter for restricted shell commands)
 - [ ] **Exp 03: Hybrid - Segmented Sub-Agent Orchestration** (Goal: Decompose restricted tasks into benign tool-use loops)
 
